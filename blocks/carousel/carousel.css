@@ -9,7 +9,7 @@ main .carousel-container {
 main .carousel {
   display: flex;
   scroll-snap-type: x mandatory;
-  overflow: scroll hidden;
+  overflow: hidden;
   scroll-behavior: smooth;
   margin: auto;
 }
