@@ -28,6 +28,7 @@ main h3.artist-name {
 }
 
 main .artist-name-wrapper p {
+    color: #202020;
     margin-top: 0;
     margin-bottom: 0.25em;
     font-size: 14px;
